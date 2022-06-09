@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MasterSlave\n"
 "POT-Creation-Date: 2020-01-24 14:32+0000\n"
-"PO-Revision-Date: 2022-05-31 10:51+0000\n"
+"PO-Revision-Date: 2022-06-09 09:26+0000\n"
 "Last-Translator: Philipp Kesler <philipp.kesler@hein.de>\n"
 "Language-Team: Russian <https://translate.otobo.org/projects/otobo10/"
 "masterslave/ru/>\n"
@@ -80,7 +80,7 @@ msgstr "Требуется ли блокировка заявки при при�
 
 #. SysConfig
 msgid "Defines if the MasterSlave note is visible for the customer by default."
-msgstr ""
+msgstr "Определяет, будет ли запись MasterSlave видна клиенту по умолчанию."
 
 #. SysConfig
 msgid "Defines the default next state of a ticket after adding a note, in the ticket MasterSlave screen of a zoomed ticket in the agent interface."
@@ -168,7 +168,7 @@ msgstr "Права, требуемые для использования фун�
 
 #. SysConfig
 msgid "Sets if Master / Slave field must be selected by the agent."
-msgstr ""
+msgstr "Устанавливает, должно ли поле Master / Slave быть выбрано агентом."
 
 #. SysConfig
 msgid "Sets the default body text for notes added in the ticket MasterSlave screen of a zoomed ticket in the agent interface."
@@ -213,6 +213,8 @@ msgstr "Дает возможность изменить приоритет на
 #. SysConfig
 msgid "Shows the title field in the ticket MasterSlave screen of a zoomed ticket in the agent interface."
 msgstr ""
+"Показывает поле заголовка на экране билет MasterSlave увеличенного билета в "
+"интерфейсе агента."
 
 #. SysConfig
 msgid "Slave Tickets"
@@ -221,6 +223,8 @@ msgstr "Ведомые заявки"
 #. SysConfig
 msgid "Specifies the different article communication channels where the real name from Master ticket will be replaced with the one in the Slave ticket."
 msgstr ""
+"Указывает различные каналы связи артикулов, в которых реальное имя из билета "
+"Master будет заменено на имя в билете Slave."
 
 #. SysConfig
 msgid "This module activates Master/Slave field in new email and phone ticket screens."
@@ -228,7 +232,7 @@ msgstr "Этот модуль включает возможность выбор
 
 #. SysConfig
 msgid "This setting is deprecated and will be removed in further versions of MasterSlave."
-msgstr ""
+msgstr "Этот параметр устарел и будет удален в последующих версиях MasterSlave."
 
 #. SysConfig
 msgid "Ticket MasterSlave."
